@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhil131102
-- 👀 I’m a beignner 
-- 🌱 I’m currently learning ...pyhton
+- 👀 B.Tech. CS
+- 🌱 Python and Java
 - 💞️ I’m looking to collaborate on ...any python project
 - 📫 How to reach me ...
 
